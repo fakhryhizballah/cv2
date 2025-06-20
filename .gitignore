@@ -1,0 +1,6 @@
+captured_faces/*
+known_faces/*
+!captured_faces/.gitkeep
+!known_faces/.gitkeep
+.DS_Store
+.env
